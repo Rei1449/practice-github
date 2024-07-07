@@ -9,3 +9,5 @@ react:18.3.1
 typescript:5.2.2
 
 vite:5.3.1
+
+react-router-dom:6.24.1
